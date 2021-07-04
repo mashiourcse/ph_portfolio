@@ -68,11 +68,12 @@ h2{
 }
 
 .experience-item{
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 60%;
+    margin-left: 6%;
+    margin-right: 6%;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 10px;
     box-shadow: 10px 10px 30px gray;
     
 }
