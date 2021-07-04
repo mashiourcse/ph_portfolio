@@ -74,5 +74,21 @@ h2{
     padding-left: 10px;
     padding-right: 10px;
     box-shadow: 10px 10px 30px gray;
+    
+}
 
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, green);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
 }
