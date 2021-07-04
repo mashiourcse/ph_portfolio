@@ -14,6 +14,10 @@ h2{
     font-size: 40px;
 }
 
+#firstImg{
+    border-radius: 50%;
+}
+
 .orange-color{
     color: orange;
     margin-bottom: 150px;
