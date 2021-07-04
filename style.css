@@ -15,8 +15,9 @@ h1{
     margin-bottom: 150px;
 }
 
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width{
